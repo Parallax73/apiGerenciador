@@ -5,7 +5,7 @@ public enum eSituacao {
     ATIVA,
     TRANCADA,
     CONCLUIDA,
-    CANCELADA;
+    CANCELADA
 
 
 

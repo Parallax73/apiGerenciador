@@ -11,6 +11,6 @@ public enum eEstadoCivil {
     CASADA,
     SEPARADA,
     DIVORCIADA,
-    VIUVA;
+    VIUVA
 
 }

@@ -5,7 +5,7 @@ public enum eGenero {
     MASCULINO,
     FEMININO,
     NAO_BINARIO,
-    NAO_INFORMAR;
+    NAO_INFORMAR
 
 
 
