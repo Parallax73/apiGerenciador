@@ -1,0 +1,18 @@
+{
+    "nome": "João da silva", 
+    "ra": "12345678",
+    "curso": {
+        "codCurso": "123",
+        "nomeCurso": "MEDICINA"
+    },
+    "genero": "MASCULINO",
+    "estadoCivil": "SOLTEIRO",
+    "endereco": {
+        "logradouro": "Avenida Paulista",
+        "numero": "453",
+        "cidade": "São Paulo"
+    },
+    "email": "joaodasilva123@email.com",
+    "telefone": "12345678",
+    "situacao": "ATIVA"
+}
